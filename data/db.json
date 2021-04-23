@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Telsa",
+      "email": "tesla@email.com",
+      "password": "12345678"
+    },
+    {
+      "id": 2,
+      "name": "tomas",
+      "email": "tomas@email.com",
+      "password": "12345678"
+    },
+    {
+      "id": 3,
+      "name": "NA",
+      "email": "NA@email.com",
+      "password": "12345678"
+    },
+    {
+      "id": 4,
+      "name": "Ann",
+      "email": "ann@email.com",
+      "password": "12345678"
+    },
+    {
+      "name": "vxcvc",
+      "email": "q@email.com",
+      "password": "12345678",
+      "id": 7
+    },
+    {
+      "name": "vxcvc",
+      "email": "q@email.com",
+      "password": "12345678",
+      "id": 8
+    },
+    {
+      "name": "vxcvc",
+      "email": "q@email.com",
+      "password": "12345678",
+      "id": 9
+    },
+    {
+      "name": "vxcvc",
+      "email": "q@email.com",
+      "password": "12345678",
+      "id": 10
+    },
+    {
+      "name": "vxcvc",
+      "email": "q@email.com",
+      "password": "12345678",
+      "id": 11
+    },
+    {
+      "email": "name@email.com",
+      "password": "$2a$10$HKPCv632idqAl110SSHIxO4aFjmuEVtiQ9rgi9o9E3rkkgvRxiDGO",
+      "id": 5,
+      "name": "name"
+    },
+    {
+      "email": "name1@email.com",
+      "password": "$2a$10$XFxg2x0AY9urpi9/3DpZgekjuzeChBXzin8DnKVLX7jVmcqn/b732",
+      "id": 12,
+      "name": "name"
+    },
+    {
+      "email": "qwer@email.com",
+      "password": "$2a$10$fYc11ZJD4TpfWw720a0TuOTIew.1TiiOqG9BfGBfvk8yepHaa3pWi",
+      "name": "qwer",
+      "id": 13
+    },
+    {
+      "email": "qwerr@email.com",
+      "password": "$2a$10$ySIlHoEVxUIzxUIKSWmaUOpnaCGwNHnlKSz7s.4hl7/7q7gXVgN6.",
+      "name": "qwer",
+      "id": 14
+    }
+  ]
+}
